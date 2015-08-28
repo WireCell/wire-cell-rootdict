@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-bld.smplpkg('WireCellRootDict', use='WireCellIface')
+bld.smplpkg('WireCellRootDict', use='WireCellIface WireCellUtil ROOTSYS')

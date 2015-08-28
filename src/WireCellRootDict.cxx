@@ -1,0 +1,2 @@
+#include "WireCellRootDict/WireCellRootDict.h"
+
